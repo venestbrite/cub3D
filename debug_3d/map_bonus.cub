@@ -1,0 +1,16 @@
+
+R  800 400  
+NO ./debug_3d/textures/eagle.png
+SO ./debug_3d/textures/bluestone.png
+WE ./debug_3d/textures/greystone.png
+EA ./debug_3d/textures/purplestone.png
+S  ./debug_3d/textures/sprite_can.png
+F 0,255,0
+C 255,0,0
+
+111111111111
+100000000001
+100003000001
+100000000001
+10000N000001
+111111111111

@@ -1,0 +1,16 @@
+
+R  800 400  
+NO ./textures_png/eagle.png
+SO ./textures_png/bluestone.png
+WE ./textures_png/greystone.png
+EA ./textures_png/mossy.png
+S  ./textures/fratm.png
+F 0,255,0
+C 255,0,0
+
+111111111111111
+100000000000001
+10000000N0000001
+1030000200200001
+10000000000000001
+11111111111111111
